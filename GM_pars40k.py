@@ -4,7 +4,7 @@ import csv
 from openpyxl import load_workbook
 from openpyxl import Workbook
 
-url='https://maps.googleapis.com/maps/api/place/textsearch/json?query=street+food+in+uk&key=AIzaSyBLQ3gMYryO8fl_ZBRTpcIiDyNvNT7Maec'
+url='https://maps.googleapis.com/maps/api/place/textsearch/json?query=street+food+in+uk&key=xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 response = requests.get(url)
 result = response.json()
 
