@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Extract_Addresses_from_Excel_Rows/.idea/Extract_Addresses_from_Excel_Rows.iml" filepath="$PROJECT_DIR$/../Extract_Addresses_from_Excel_Rows/.idea/Extract_Addresses_from_Excel_Rows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/googleMaps2_parsing40k.iml" filepath="$PROJECT_DIR$/.idea/googleMaps2_parsing40k.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../googleMaps_parsing/.idea/googleMaps_parsing.iml" filepath="$PROJECT_DIR$/../googleMaps_parsing/.idea/googleMaps_parsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_task_for_Amonitoring/.idea/test_task_for_Amonitoring.iml" filepath="$PROJECT_DIR$/../test_task_for_Amonitoring/.idea/test_task_for_Amonitoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled5/.idea/untitled5.iml" filepath="$PROJECT_DIR$/../untitled5/.idea/untitled5.iml" />
+    </modules>
+  </component>
+</project>
